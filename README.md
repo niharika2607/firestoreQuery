@@ -1,1 +1,1 @@
-# firestoreQuery
+# FirestoryQuery
